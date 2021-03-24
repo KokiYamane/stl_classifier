@@ -1,0 +1,9 @@
+autopep8
+numpy
+matplotlib
+seaborn
+pandas
+scikit-learn
+numpy-stl
+torch
+open3d
